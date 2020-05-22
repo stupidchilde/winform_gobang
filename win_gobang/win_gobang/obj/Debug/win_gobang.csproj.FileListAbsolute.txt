@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\obj\Debug\win_gobang.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\obj\Debug\win_gobang.gobangMainFrom.resources
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\obj\Debug\win_gobang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\obj\Debug\win_gobang.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\obj\Debug\win_gobang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\bin\Debug\win_gobang.exe.config
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\bin\Debug\win_gobang.exe
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\bin\Debug\win_gobang.pdb
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\obj\Debug\win_gobang.exe
+C:\Users\Administrator\Desktop\win_gobang\win_gobang\obj\Debug\win_gobang.pdb

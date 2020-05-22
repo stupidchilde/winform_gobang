@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\bin\Release\gobang_server.exe.config
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\bin\Release\gobang_server.exe
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\bin\Release\gobang_server.pdb
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\obj\Release\gobang_server.FormGobangServer.resources
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\obj\Release\gobang_server.Properties.Resources.resources
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\obj\Release\gobang_server.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\obj\Release\gobang_server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\obj\Release\gobang_server.exe
+C:\Users\Administrator\Desktop\gobang_server\gobang_server\obj\Release\gobang_server.pdb
