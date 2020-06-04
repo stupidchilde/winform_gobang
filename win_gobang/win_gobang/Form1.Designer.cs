@@ -1,6 +1,6 @@
 ﻿namespace win_gobang
 {
-    partial class gobangMainFrom
+    partial class GobangMainFrom
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -28,11 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(gobangMainFrom));
-            this.btn_open = new System.Windows.Forms.Button();
-            this.btn_goBack = new System.Windows.Forms.Button();
-            this.btn_mode = new System.Windows.Forms.Button();
-            this.btn_close = new System.Windows.Forms.Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GobangMainFrom));
+            this.Btn_open = new System.Windows.Forms.Button();
+            this.Btn_goBack = new System.Windows.Forms.Button();
+            this.Btn_mode = new System.Windows.Forms.Button();
+            this.Btn_close = new System.Windows.Forms.Button();
             this.lbl_degree = new System.Windows.Forms.Label();
             this.lbl_Mode = new System.Windows.Forms.Label();
             this.lbl_nowMode = new System.Windows.Forms.Label();
@@ -45,45 +45,45 @@
             this.gbox_btns.SuspendLayout();
             this.SuspendLayout();
             // 
-            // btn_open
+            // Btn_open
             // 
-            this.btn_open.Location = new System.Drawing.Point(61, 38);
-            this.btn_open.Name = "btn_open";
-            this.btn_open.Size = new System.Drawing.Size(75, 30);
-            this.btn_open.TabIndex = 0;
-            this.btn_open.Text = "开始";
-            this.btn_open.UseVisualStyleBackColor = true;
-            this.btn_open.Click += new System.EventHandler(this.btn_open_Click);
+            this.Btn_open.Location = new System.Drawing.Point(61, 38);
+            this.Btn_open.Name = "Btn_open";
+            this.Btn_open.Size = new System.Drawing.Size(75, 30);
+            this.Btn_open.TabIndex = 0;
+            this.Btn_open.Text = "开始";
+            this.Btn_open.UseVisualStyleBackColor = true;
+            this.Btn_open.Click += new System.EventHandler(this.Btn_open_Click);
             // 
-            // btn_goBack
+            // Btn_goBack
             // 
-            this.btn_goBack.Location = new System.Drawing.Point(61, 152);
-            this.btn_goBack.Name = "btn_goBack";
-            this.btn_goBack.Size = new System.Drawing.Size(75, 30);
-            this.btn_goBack.TabIndex = 1;
-            this.btn_goBack.Text = "悔棋";
-            this.btn_goBack.UseVisualStyleBackColor = true;
-            this.btn_goBack.Click += new System.EventHandler(this.btn_goBack_Click);
+            this.Btn_goBack.Location = new System.Drawing.Point(61, 152);
+            this.Btn_goBack.Name = "Btn_goBack";
+            this.Btn_goBack.Size = new System.Drawing.Size(75, 30);
+            this.Btn_goBack.TabIndex = 1;
+            this.Btn_goBack.Text = "悔棋";
+            this.Btn_goBack.UseVisualStyleBackColor = true;
+            this.Btn_goBack.Click += new System.EventHandler(this.Btn_goBack_Click);
             // 
-            // btn_mode
+            // Btn_mode
             // 
-            this.btn_mode.Location = new System.Drawing.Point(61, 95);
-            this.btn_mode.Name = "btn_mode";
-            this.btn_mode.Size = new System.Drawing.Size(75, 30);
-            this.btn_mode.TabIndex = 2;
-            this.btn_mode.Text = "模式";
-            this.btn_mode.UseVisualStyleBackColor = true;
-            this.btn_mode.Click += new System.EventHandler(this.btn_mode_Click);
+            this.Btn_mode.Location = new System.Drawing.Point(61, 95);
+            this.Btn_mode.Name = "Btn_mode";
+            this.Btn_mode.Size = new System.Drawing.Size(75, 30);
+            this.Btn_mode.TabIndex = 2;
+            this.Btn_mode.Text = "模式";
+            this.Btn_mode.UseVisualStyleBackColor = true;
+            this.Btn_mode.Click += new System.EventHandler(this.Btn_mode_Click);
             // 
-            // btn_close
+            // Btn_close
             // 
-            this.btn_close.Location = new System.Drawing.Point(61, 212);
-            this.btn_close.Name = "btn_close";
-            this.btn_close.Size = new System.Drawing.Size(75, 30);
-            this.btn_close.TabIndex = 3;
-            this.btn_close.Text = "退出";
-            this.btn_close.UseVisualStyleBackColor = true;
-            this.btn_close.Click += new System.EventHandler(this.btn_close_Click);
+            this.Btn_close.Location = new System.Drawing.Point(61, 212);
+            this.Btn_close.Name = "Btn_close";
+            this.Btn_close.Size = new System.Drawing.Size(75, 30);
+            this.Btn_close.TabIndex = 3;
+            this.Btn_close.Text = "退出";
+            this.Btn_close.UseVisualStyleBackColor = true;
+            this.Btn_close.Click += new System.EventHandler(this.Btn_close_Click);
             // 
             // lbl_degree
             // 
@@ -145,10 +145,10 @@
             // 
             // gbox_btns
             // 
-            this.gbox_btns.Controls.Add(this.btn_open);
-            this.gbox_btns.Controls.Add(this.btn_mode);
-            this.gbox_btns.Controls.Add(this.btn_goBack);
-            this.gbox_btns.Controls.Add(this.btn_close);
+            this.gbox_btns.Controls.Add(this.Btn_open);
+            this.gbox_btns.Controls.Add(this.Btn_mode);
+            this.gbox_btns.Controls.Add(this.Btn_goBack);
+            this.gbox_btns.Controls.Add(this.Btn_close);
             this.gbox_btns.Location = new System.Drawing.Point(661, 318);
             this.gbox_btns.Name = "gbox_btns";
             this.gbox_btns.Size = new System.Drawing.Size(216, 275);
@@ -165,7 +165,7 @@
             this.gbox_userinfo.TabStop = false;
             this.gbox_userinfo.Text = "用户信息";
             // 
-            // gobangMainFrom
+            // GobangMainFrom
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -175,7 +175,7 @@
             this.Controls.Add(this.gbox_chessboard);
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "gobangMainFrom";
+            this.Name = "GobangMainFrom";
             this.Text = "五子棋";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -186,10 +186,10 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btn_open;
-        private System.Windows.Forms.Button btn_goBack;
-        private System.Windows.Forms.Button btn_mode;
-        private System.Windows.Forms.Button btn_close;
+        private System.Windows.Forms.Button Btn_open;
+        private System.Windows.Forms.Button Btn_goBack;
+        private System.Windows.Forms.Button Btn_mode;
+        private System.Windows.Forms.Button Btn_close;
         private System.Windows.Forms.Label lbl_degree;
         private System.Windows.Forms.Label lbl_Mode;
         private System.Windows.Forms.Label lbl_nowMode;

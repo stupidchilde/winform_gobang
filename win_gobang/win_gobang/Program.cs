@@ -16,7 +16,7 @@ namespace win_gobang
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new gobangMainFrom());
+            Application.Run(new GobangMainFrom());
         }
     }
 }

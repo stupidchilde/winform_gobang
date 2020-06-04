@@ -8,13 +8,7 @@ namespace win_gobang
 {
     class AIplan 
     {
-        private void  aiPlan( int plan )
-        { 
-        
-        
-        
-        
-        }
+
 
     }
 }
